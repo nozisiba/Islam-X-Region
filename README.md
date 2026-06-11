@@ -55,4 +55,9 @@ To ensure your results are robust against omitted variable bias, the model uses 
 ```math
 (\text{MMR}_{it} - \overline{\text{MMR}}_i) = \beta_1(\text{Islam}_{it} - \overline{\text{Islam}}_i) + \beta_2(\text{WSEI}_{it} - \overline{\text{WSEI}}_i) + \beta_3(\text{Interaction}_{it} - \overline{\text{Interaction}}_i) + \mathbf{\Gamma}(\mathbf{Z}_{it} - \overline{\mathbf{Z}}_i) + (\epsilon_{it} - \overline{\epsilon}_i)
 ```
+Where  
+* $ i$ represents the individual country, and $t$ represents the individual calendar year.
+* $\overline{\text{Variable}}_i$ denotes the country-specific mean over the 21-year period.
+* $\mathbf{\Gamma}$ represents the vector of coefficients for your time-varying controls (WomenParl and logged GDPCap).
+* Standard errors are clustered at the country level ($\text{ISO}$) to remain fully robust against panel heteroskedasticity and multi-year serial autocorrelation.
 
