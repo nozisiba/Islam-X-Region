@@ -13,13 +13,17 @@ This research project investigates cross-national disparities in reproductive he
 * **The Moderation Hypothesis ($H_2$)**: The relationship between macro-level religious demography and reproductive health access is conditioned by women's structural development. In high-empowerment contexts, the predictive effect of demographic concentration on health disparities will be significantly mitigated or neutralised.
 
 #Variables and Data Operationalisation  
-The dataset features an annual, individual country-year panel spanning from 2000 to 2020 compiled exclusively from source registry archives.  
+The dataset features an annual, individual-country-year panel spanning 2000 to 2020, compiled exclusively from source registry archives.  
 
 ## Dependent Variable (Y)  
-* __Maternal Mortality Ratio (MMR)__: Modeled estimate measured as maternal deaths per 100,000 live births. This serves as the primary macro-indicator for structural reproductive healthcare efficacy and access.
-  * Source: World Bank Open Data / World Development Indicators (SH.STA.MMRT).
+* __Maternal Mortality Ratio (MMR)__: Modelled estimate measured as maternal deaths per 100,000 live births. This serves as the primary macro-indicator for structural reproductive healthcare efficacy and access.
+  * Source: World Bank Open Data / World Development Indicators.
 ## Main Independent Variable ($X$)  
-* __Islam Religious Demography__: The percentage of a nation's total population identifying as Muslim. This tracks annual demographic concentration variations down to individual country-year rows.
-   * Source: The Association of Religion Data Archives (ARDA) / Pew Research Center Panel.
+* __Islam Religious Demography__: The percentage of a nation's total population identifying as Muslim. This tracks annual variations in demographic concentration down to individual country-year rows.
+   * Source: The Association of Religion Data Archives (ARDA) / Pew Research Centre Panel.
+ 
+## Moderator Variable ($W$)
+* __Women's Structural Empowerment Index (WSEI)__: A composite index scaled strictly from $0$ to $1$. It is calculated by taking the arithmetic mean of two normalized gender-disaggregated development vectors:
+   1. Educational Attainment: Cumulative percentage of the female population aged 25+ that has completed at least upper secondary education.
  
 
