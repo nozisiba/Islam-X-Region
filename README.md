@@ -36,5 +36,10 @@ The dataset features an annual, individual-country-year panel spanning 2000 to 2
    * Source: Inter-Parliamentary Union (IPU) via World Bank
 * __Economic Development ($\log$ of GDPCap)__: The natural logarithm of GDP per capita calculated using constant 2021 international purchasing power parity (PPP) dollars. Logging this parameter linearises economic growth variations and controls for diminishing marginal returns on healthcare infrastructure spending.
   * Source: World Bank Group
- 
+## Econometric Specifications & Equations  
+
+To test the hypotheses while controlling for unobserved time-invariant country characteristics (such as permanent regional geographies, cultural legacies, or historical legal frameworks), the analysis advances through three sequential linear equations.  
+### Equation 1: Baseline Pooled OLS Specification  
+This provides the baseline relationship without accounting for individual country clustering or interactive conditioning effects:  
+$$\text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{WomenParl}_{it}) + \beta_4(\log(\text{GDPCap}_{it})) + \epsilon_{it}$$
 
