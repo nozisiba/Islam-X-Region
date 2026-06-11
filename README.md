@@ -15,4 +15,9 @@ The dataset features an annual, individual country-year panel spanning from 2000
 
 ## Dependent Variable (Y)  
 * __Maternal Mortality Ratio (MMR)__: Modeled estimate measured as maternal deaths per 100,000 live births. This serves as the primary macro-indicator for structural reproductive healthcare efficacy and access.
-* * Source: World Bank Open Data / World Development Indicators (SH.STA.MMRT).
+  * Source: World Bank Open Data / World Development Indicators (SH.STA.MMRT).
+## Main Independent Variable ($X$)  
+* __Islam Religious Demography__: The percentage of a nation's total population identifying as Muslim. This tracks annual demographic concentration variations down to individual country-year rows.
+   * Source: The Association of Religion Data Archives (ARDA) / Pew Research Center Panel.
+ 
+
