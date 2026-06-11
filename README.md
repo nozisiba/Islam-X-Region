@@ -29,7 +29,7 @@ The dataset features an annual, individual-country-year panel spanning 2000 to 2
  ```math
 \text{WSEI}_{it} = \frac{\text{Normalized Education}_{it} + \text{Normalized Labor}_{it}}{2}
 ```
-      * Source: UNESCO Institute for Statistics / International Labour Organisation (ILO) via World Bank.  
+   * Source: UNESCO Institute for Statistics / International Labour Organisation (ILO) via World Bank.  
 
 ## Control Covariates ($Z$)  
 * __Women's Parliamentary Representation (WomenParl)__: The proportion of seats held by women in national parliaments (%). This isolates and controls for the direct effects of formal female political power on institutional health allocations.  
