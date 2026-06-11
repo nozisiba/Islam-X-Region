@@ -1,4 +1,6 @@
-# Islamic Religious Demography and Reproductive Healthcare Access in Africa (2000–2020)
+# Islamic Religious Demography and Reproductive Healthcare Access in Africa (2000–2020)  
+####By Nozipho Sibanda   
+
 ## Research Overview & Hypotheses  
 This research project investigates cross-national disparities in reproductive healthcare access across Africa by evaluating the structural interactions between national religious demography and women's socioeconomic opportunities.
 
