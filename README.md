@@ -7,5 +7,5 @@ This research project investigates cross-national disparities in reproductive he
 * Interaction Research Question: Does the relationship between Islamic religious identification and maternal healthcare outcomes vary systematically across differing levels of women’s institutional and structural empowerment?
 
 ### Hypotheses  
-* ** Baseline Hypothesis ($H_1$) **: Higher concentrations of Islamic religious demography correspond to unique structural variations in reproductive health infrastructure, creating distinct cross-national variations in baseline maternal healthcare outcomes.
-* ** The Moderation Hypothesis ($H_2$) **: The relationship between macro-level religious demography and reproductive health access is conditioned by women's structural development. In high-empowerment contexts, the predictive effect of demographic concentration on health disparities will be significantly mitigated or neutralised.
+* __Baseline Hypothesis ($H_1$)__: Higher concentrations of Islamic religious demography correspond to unique structural variations in reproductive health infrastructure, creating distinct cross-national variations in baseline maternal healthcare outcomes.
+* **The Moderation Hypothesis ($H_2$)**: The relationship between macro-level religious demography and reproductive health access is conditioned by women's structural development. In high-empowerment contexts, the predictive effect of demographic concentration on health disparities will be significantly mitigated or neutralised.
