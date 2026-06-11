@@ -1,3 +1,3 @@
-# Islam-X-Region
+# Islamic Religious Demography and Reproductive Healthcare Access in Africa (2000–2020)
 Cleaning my data  
 My Econometric Equation Is:  $$\text{MMR} = \beta_0 + \beta_1(\text{Islam}) + \beta_2(\text{WSEI}) + \beta_3(\text{Islam} \times \text{WSEI}) + \beta_4(\text{WomenParl}) + \beta_5(\log(\text{GDPCap})) + \epsilon$$
