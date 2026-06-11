@@ -23,7 +23,11 @@ The dataset features an annual, individual-country-year panel spanning 2000 to 2
    * Source: The Association of Religion Data Archives (ARDA) / Pew Research Centre Panel.
  
 ## Moderator Variable ($W$)
-* __Women's Structural Empowerment Index (WSEI)__: A composite index scaled strictly from $0$ to $1$. It is calculated by taking the arithmetic mean of two normalized gender-disaggregated development vectors:
+* __Women's Structural Empowerment Index (WSEI)__: A composite index scaled strictly from $0$ to $1$. It is calculated by taking the arithmetic mean of two normalised gender-disaggregated development vectors:
    1. Educational Attainment: Cumulative percentage of the female population aged 25+ that has completed at least upper secondary education.
+   2. Labour Force Participation: Female economic activity rates tracking ages 15–24.
+      $$\text{WSEI}_{it} = \frac{\text{Normalised Education}_{it} + \text{Normalised Labor}_{it}}{2}$$
+      
+      *Source: UNESCO Institute for Statistics / International Labour Organisation (ILO) via World Bank.
  
 
