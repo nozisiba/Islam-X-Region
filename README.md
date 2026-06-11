@@ -50,4 +50,9 @@ This introduces the interactive term ($\text{Islam} \times \text{WSEI}$) to test
 ```math
 \text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{Islam}_{it} \times \text{WSEI}_{it}) + \beta_4(\text{WomenParl}_{it}) + \beta_5(\log(\text{GDPCap}_{it})) + \epsilon_{it}
 ```
+### Equation 3: Country Fixed-Effects (Within) Transformation
+To ensure your results are robust against omitted variable bias, the model uses a within-country transformation. This drops time-invariant elements and focuses purely on longitudinal variance within nations over time:
+```math
+(\text{MMR}_{it} - \overline{\text{MMR}}_i) = \beta_1(\text{Islam}_{it} - \overline{\text{Islam}}_i) + \beta_2(\text{WSEI}_{it} - \overline{\text{WSEI}}_i) + \beta_3(\text{Interaction}_{it} - \overline{\text{Interaction}}_i) + \mathbf{\Gamma}(\mathbf{Z}_{it} - \overline{\mathbf{Z}}_i) + (\epsilon_{it} - \overline{\epsilon}_i)
+```
 
