@@ -27,8 +27,8 @@ The dataset features an annual, individual-country-year panel spanning 2000 to 2
    1. Educational Attainment: Cumulative percentage of the female population aged 25+ that has completed at least upper secondary education.
    2. Labour Force Participation: Female economic activity rates tracking ages 15–24.
  ```math
-\(\text{WSEI}_{it} = \frac\){\(\text{Normalized Education}_{it} + \text{Normalized Labor}_\){it}}{2}
+\text{WSEI}_{it} = \frac{\text{Normalized Education}_{it} + \text{Normalized Labor}_{it}}{2}
 ```
-      *Source: UNESCO Institute for Statistics / International Labour Organisation (ILO) via World Bank.
+      * Source: UNESCO Institute for Statistics / International Labour Organisation (ILO) via World Bank.
  
 
