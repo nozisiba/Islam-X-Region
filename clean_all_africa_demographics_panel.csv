@@ -1,0 +1,43 @@
+Country,ISO,Region,Year,MMR,Islam,WSEI,WomenParl,GDPCap
+Algeria,DZA,Middle East & North Africa,2000,82,99.0,0.412,6.2,10210
+Algeria,DZA,Middle East & North Africa,2001,79,99.0,0.418,6.2,10430
+Algeria,DZA,Middle East & North Africa,2002,77,99.0,0.423,6.2,10850
+Algeria,DZA,Middle East & North Africa,2003,75,99.0,0.428,6.2,11420
+Algeria,DZA,Middle East & North Africa,2004,73,99.0,0.435,6.2,11780
+Algeria,DZA,Middle East & North Africa,2005,71,99.0,0.443,6.2,12190
+Algeria,DZA,Middle East & North Africa,2006,69,99.0,0.450,6.2,12340
+Algeria,DZA,Middle East & North Africa,2007,67,99.0,0.458,7.7,12580
+Algeria,DZA,Middle East & North Africa,2008,66,99.0,0.466,7.7,12720
+Algeria,DZA,Middle East & North Africa,2009,64,99.0,0.475,7.7,12810
+Algeria,DZA,Middle East & North Africa,2010,63,99.0,0.485,7.7,13140
+Algeria,DZA,Middle East & North Africa,2011,62,99.0,0.490,7.7,13320
+Algeria,DZA,Middle East & North Africa,2012,61,99.0,0.494,31.6,13480
+Algeria,DZA,Middle East & North Africa,2013,60,99.0,0.499,31.6,13510
+Algeria,DZA,Middle East & North Africa,2014,59,99.0,0.505,31.6,13720
+Algeria,DZA,Middle East & North Africa,2015,58,99.0,0.511,31.6,13910
+Algeria,DZA,Middle East & North Africa,2016,57,99.0,0.518,31.6,14120
+Algeria,DZA,Middle East & North Africa,2017,56,99.0,0.524,25.8,14080
+Algeria,DZA,Middle East & North Africa,2018,55,99.0,0.529,25.8,14130
+Algeria,DZA,Middle East & North Africa,2019,54,99.0,0.535,25.8,14110
+Algeria,DZA,Middle East & North Africa,2020,54,99.0,0.540,25.8,13340
+Zimbabwe,ZWE,Sub-Saharan Africa,2000,560,1.1,0.460,10.0,2430
+Zimbabwe,ZWE,Sub-Saharan Africa,2001,570,1.1,0.462,10.0,2410
+Zimbabwe,ZWE,Sub-Saharan Africa,2002,590,1.1,0.465,10.0,2230
+Zimbabwe,ZWE,Sub-Saharan Africa,2003,610,1.1,0.469,10.0,1870
+Zimbabwe,ZWE,Sub-Saharan Africa,2004,640,1.1,0.471,10.0,1720
+Zimbabwe,ZWE,Sub-Saharan Africa,2005,680,1.1,0.474,16.0,1590
+Zimbabwe,ZWE,Sub-Saharan Africa,2006,710,1.1,0.478,16.0,1530
+Zimbabwe,ZWE,Sub-Saharan Africa,2007,730,1.1,0.481,16.0,1470
+Zimbabwe,ZWE,Sub-Saharan Africa,2008,740,1.1,0.485,15.2,1210
+Zimbabwe,ZWE,Sub-Saharan Africa,2009,680,1.1,0.488,15.2,1320
+Zimbabwe,ZWE,Sub-Saharan Africa,2010,480,1.1,0.491,15.0,1540
+Zimbabwe,ZWE,Sub-Saharan Africa,2011,460,1.1,0.495,15.0,1730
+Zimbabwe,ZWE,Sub-Saharan Africa,2012,440,1.1,0.498,15.0,1920
+Zimbabwe,ZWE,Sub-Saharan Africa,2013,430,1.1,0.501,31.5,2010
+Zimbabwe,ZWE,Sub-Saharan Africa,2014,410,1.1,0.504,31.5,2040
+Zimbabwe,ZWE,Sub-Saharan Africa,2015,390,1.1,0.508,31.5,2060
+Zimbabwe,ZWE,Sub-Saharan Africa,2016,380,1.1,0.512,31.5,2070
+Zimbabwe,ZWE,Sub-Saharan Africa,2017,370,1.1,0.515,32.6,2140
+Zimbabwe,ZWE,Sub-Saharan Africa,2018,360,1.1,0.518,31.5,2210
+Zimbabwe,ZWE,Sub-Saharan Africa,2019,358,1.1,0.521,31.9,2080
+Zimbabwe,ZWE,Sub-Saharan Africa,2020,358,1.1,0.524,31.9,1960
