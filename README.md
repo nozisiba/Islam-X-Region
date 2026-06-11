@@ -42,5 +42,5 @@ To test the hypotheses while controlling for unobserved time-invariant country c
 ### Equation 1: Baseline Pooled OLS Specification  
 This provides the baseline relationship without accounting for individual country clustering or interactive conditioning effects:  
  ```math
-$$\text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{WomenParl}_{it}) + \beta_4(\log(\text{GDPCap}_{it})) + \epsilon_{it}$$```
+\text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{WomenParl}_{it}) + \beta_4(\log(\text{GDPCap}_{it})) + \epsilon_{it}```
 
