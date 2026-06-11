@@ -47,5 +47,6 @@ This provides the baseline relationship without accounting for individual countr
 
 ### Equation 2: The Core Interaction Specification
 This introduces the interactive term ($\text{Islam} \times \text{WSEI}$) to test the moderation effects ($H_2$):  
-$$\text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{Islam}_{it} \times \text{WSEI}_{it}) + \beta_4(\text{WomenParl}_{it}) + \beta_5(\log(\text{GDPCap}_{it})) + \epsilon_{it}$$
+```math\text{MMR}_{it} = \beta_0 + \beta_1(\text{Islam}_{it}) + \beta_2(\text{WSEI}_{it}) + \beta_3(\text{Islam}_{it} \times \text{WSEI}_{it}) + \beta_4(\text{WomenParl}_{it}) + \beta_5(\log(\text{GDPCap}_{it})) + \epsilon_{it}
+```
 
