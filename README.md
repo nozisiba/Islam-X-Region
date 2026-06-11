@@ -33,7 +33,7 @@ The dataset features an annual, individual-country-year panel spanning 2000 to 2
 
 ## Control Covariates ($Z$)  
 * __Women's Parliamentary Representation (WomenParl)__: The proportion of seats held by women in national parliaments (%). This isolates and controls for the direct effects of formal female political power on institutional health allocations.  
-  * Source: Inter-Parliamentary Union (IPU) via World Bank
+   * Source: Inter-Parliamentary Union (IPU) via World Bank
 * __Economic Development ($\log$ of GDPCap)__: The natural logarithm of GDP per capita calculated using constant 2021 international purchasing power parity (PPP) dollars. Logging this parameter linearises economic growth variations and controls for diminishing marginal returns on healthcare infrastructure spending.
   * Source: World Bank Group
  
